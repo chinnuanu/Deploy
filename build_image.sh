@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -xe
 
 VERSION=0.1-dev
 REPO=bponieckiklotz/kubeflow-e2e-seldon-mlflow-deploy-step
