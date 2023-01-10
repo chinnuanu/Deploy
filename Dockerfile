@@ -13,4 +13,4 @@ RUN python3 -m pip install -r \
 ADD . /workspace
 WORKDIR /workspace
 
-ENTRYPOINT ["python", "src/deploy.py"]
+ENTRYPOINT ["python", "src/deploy.py"] \
